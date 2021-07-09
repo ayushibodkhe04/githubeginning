@@ -1,3 +1,4 @@
 Filters
 Editing
 Snaps
+Explore
